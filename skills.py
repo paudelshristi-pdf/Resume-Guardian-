@@ -56,3 +56,10 @@ SKILLS = [
     "Docker",
     "Data-Modeling"
 ]
+ALIASES = {
+    "multi-agent": "multi-agent systems",
+    "multi agent systems": "multi-agent systems",
+    "multi-agent workflows": "multi-agent systems",
+    "multiple agents": "multi-agent systems",
+    "agent orchestration": "multi-agent systems",
+}

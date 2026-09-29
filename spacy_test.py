@@ -1,6 +1,6 @@
-import spacy
+import skills
 
-nlp = spacy.load("en_core_web_sm")
+nlp = skills.load("en_core_web_sm")
 
 doc = nlp("Experienced Systems Administrator skilled in Active Directory and Azure.")
 
